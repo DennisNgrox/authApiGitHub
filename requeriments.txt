@@ -1,0 +1,13 @@
+certifi==2023.7.22
+chardet==4.0.0
+ecdsa==0.14.1
+idna==2.10
+octokit==0.0.1
+octokitpy==0.15.0
+octokitpy-routes==2.5.0
+pyasn1==0.5.0
+python-jose==3.2.0
+requests==2.25.1
+rsa==4.9
+six==1.16.0
+urllib3==1.26.16
